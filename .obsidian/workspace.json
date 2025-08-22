@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Черновик/Frontend/1.3 TailwindCSS и UnoCSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1.3 TailwindCSS и UnoCSS"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Черновик/Frontend/1.3 TailwindCSS и UnoCSS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура README"
+              "title": "Структура 1.3 TailwindCSS и UnoCSS"
             }
           },
           {
@@ -195,8 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a17c13d5dae36b52",
+  "active": "38ab6d13ef205f29",
   "lastOpenFiles": [
+    "Черновик/На будущее.md",
+    "Черновик/Frontend/1.3 TailwindCSS и UnoCSS.md",
+    "Черновик/Frontend/Emmet.md",
+    "README.md",
     "Черновик/Linux/NixOS/Nix.md",
     "Черновик/Linux/NixOS/Nix.md",
     "Черновик/Программы и утилиты/Браузеры.md",
@@ -209,10 +213,8 @@
     "Черновик/Linux/NixOS",
     "Черновик/Программы и утилиты/NvChad.md",
     "Черновик/Программы и утилиты",
-    "README.md",
     "gitignore",
     "Черновик/Frontend/Расписание.md",
-    "Черновик/Frontend/Emmet.md",
     "Черновик/Frontend/2. JS.md",
     "Черновик/Frontend/1.2 GridCSS.md",
     "Черновик/Design/Figma.md",
@@ -237,8 +239,6 @@
     "Полезные программы.md",
     "Nvim.md",
     "Черновик/Linux1.md",
-    "оформи ввиде таблицы ubuntu fedora arch nixos.md",
-    "Frontend/1. Html и CSS.md",
-    "Черновик/Code editors.md"
+    "оформи ввиде таблицы ubuntu fedora arch nixos.md"
   ]
 }
