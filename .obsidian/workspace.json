@@ -25,13 +25,14 @@
             "id": "a17c13d5dae36b52",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Черновик/Без названия.base",
-                "viewName": "Таблица"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Без названия"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Черновик/Без названия.base",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура README"
             }
           },
           {
@@ -194,16 +195,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38ab6d13ef205f29",
+  "active": "a17c13d5dae36b52",
   "lastOpenFiles": [
-    "README.md",
+    "Черновик/Linux/NixOS/Nix.md",
+    "Черновик/Linux/NixOS/Nix.md",
+    "Черновик/Программы и утилиты/Браузеры.md",
+    "Черновик/Программы и утилиты/Vim & Nvim.md",
+    "Черновик/Программы и утилиты/Полезные программы и утилиты.md",
     "Черновик/Меню.md",
     "Черновик/Без названия.base",
+    "Черновик/Linux/Linux.md",
+    "Черновик/Linux",
+    "Черновик/Linux/NixOS",
+    "Черновик/Программы и утилиты/NvChad.md",
+    "Черновик/Программы и утилиты",
+    "README.md",
     "gitignore",
-    "Черновик/Полезные программы и утилиты.md",
-    "Черновик/Vim & Nvim.md",
-    "Черновик/NvChad.md",
-    "Черновик/Linux.md",
     "Черновик/Frontend/Расписание.md",
     "Черновик/Frontend/Emmet.md",
     "Черновик/Frontend/2. JS.md",
@@ -226,16 +233,12 @@
     "Черновик/Frontend/Порядок изучения.md",
     "Черновик/Frontend/JS/Vue/Pinia",
     "Черновик/Frontend/JS/Vue/Nuxt",
-    "Черновик/Frontend/JS/Vue",
-    "Черновик/Frontend/JS/Angular",
-    "Черновик/Frontend/JS/TS",
     "Библиотека/Frontend/1.md",
     "Полезные программы.md",
     "Nvim.md",
     "Черновик/Linux1.md",
     "оформи ввиде таблицы ubuntu fedora arch nixos.md",
     "Frontend/1. Html и CSS.md",
-    "Черновик/Code editors.md",
-    "NvChad.md"
+    "Черновик/Code editors.md"
   ]
 }
