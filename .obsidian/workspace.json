@@ -25,14 +25,13 @@
             "id": "a17c13d5dae36b52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Черновик/Без названия.base",
+                "viewName": "Таблица"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-table",
+              "title": "Без названия"
             }
           }
         ],
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Черновик/Без названия.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура README"
+              "title": "Структура Без названия"
             }
           },
           {
@@ -197,9 +196,10 @@
   },
   "active": "38ab6d13ef205f29",
   "lastOpenFiles": [
-    "gitignore",
-    "Без названия.base",
     "README.md",
+    "Черновик/Меню.md",
+    "Черновик/Без названия.base",
+    "gitignore",
     "Черновик/Полезные программы и утилиты.md",
     "Черновик/Vim & Nvim.md",
     "Черновик/NvChad.md",
@@ -216,7 +216,6 @@
     "Библиотека/Frontend/1.1 Flexbox.md",
     "Библиотека/Frontend/1. Html & CSS.md",
     "Черновик/Frontend/1.1 Flexbox.md",
-    "Меню.md",
     "src/images/Flexbox/Flexbox Structure.png",
     "src/images/Vim.png",
     "src/images/Flexbox",
@@ -230,7 +229,6 @@
     "Черновик/Frontend/JS/Vue",
     "Черновик/Frontend/JS/Angular",
     "Черновик/Frontend/JS/TS",
-    "Черновик/Frontend/JS",
     "Библиотека/Frontend/1.md",
     "Полезные программы.md",
     "Nvim.md",
