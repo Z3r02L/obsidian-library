@@ -173,23 +173,3 @@ combined = attrs1 // attrs2;  # { a=1; b=2; }
 
 ***
 
-[^1]: https://habr.com/ru/articles/806595/
-
-[^2]: https://habr.com/ru/companies/typeable/articles/550860/
-
-[^3]: https://www.reddit.com/r/NixOS/comments/1cp7w20/looking_for_a_proper_guide_on_learning_the_nix/?tl=ru
-
-[^4]: https://edu.cbias.ru/lab-2/Lab-2.html
-
-[^5]: https://apptractor.ru/info/articles/chto-takoe-nix.html
-
-[^6]: https://archercreat.github.io/build-environment-with-nix-shell/
-
-[^7]: https://wiki.nixos.org/wiki/Nix_ecosystem/ru
-
-[^8]: https://pingvinus.ru/note/nixos-configuration
-
-[^9]: https://www.reddit.com/r/NixOS/comments/1iufyul/how_to_actually_learn_nix/?tl=ru
-
-[^10]: https://www.youtube.com/watch?v=0Lhahzs-Wos
-

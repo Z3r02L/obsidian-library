@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Меню.md",
+                "file": "src/Черновик/Frontend/1.2 GridCSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Меню"
+              "title": "1.2 GridCSS"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Черновик/Frontend/1.3 TailwindCSS и UnoCSS.md",
+                "file": "src/Черновик/Design/Figma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 TailwindCSS и UnoCSS"
+              "title": "Figma"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 350.5
   },
   "right": {
     "id": "b294e720f32c1adc",
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Черновик/Frontend/1.3 TailwindCSS и UnoCSS.md",
-                "followCursor": false,
+                "file": "src/Черновик/Frontend/1.2 GridCSS.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 1.3 TailwindCSS и UnoCSS"
+              "title": "Структура 1.2 GridCSS"
             }
           },
           {
@@ -177,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -185,60 +184,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "bases:Создать новую базу": false
     }
   },
   "active": "38ab6d13ef205f29",
   "lastOpenFiles": [
-    "Черновик/На будущее.md",
-    "Черновик/Frontend/1.3 TailwindCSS и UnoCSS.md",
-    "Черновик/Frontend/Emmet.md",
+    "src/Черновик/Frontend/1.3 TailwindCSS и UnoCSS.md",
+    "src/Черновик/Frontend/2. JS.md",
+    "src/Черновик/Frontend/JS/Основы.md",
+    "src/Черновик/Frontend/JS/📝 Шпаргалка по Alpine.js.md",
     "README.md",
-    "Черновик/Linux/NixOS/Nix.md",
-    "Черновик/Linux/NixOS/Nix.md",
-    "Черновик/Программы и утилиты/Браузеры.md",
-    "Черновик/Программы и утилиты/Vim & Nvim.md",
-    "Черновик/Программы и утилиты/Полезные программы и утилиты.md",
-    "Черновик/Меню.md",
-    "Черновик/Без названия.base",
-    "Черновик/Linux/Linux.md",
-    "Черновик/Linux",
-    "Черновик/Linux/NixOS",
-    "Черновик/Программы и утилиты/NvChad.md",
-    "Черновик/Программы и утилиты",
-    "gitignore",
-    "Черновик/Frontend/Расписание.md",
-    "Черновик/Frontend/2. JS.md",
-    "Черновик/Frontend/1.2 GridCSS.md",
-    "Черновик/Design/Figma.md",
+    "src/Черновик/Таблица файлов.base",
+    "src/Черновик/Меню.md",
+    "src/Черновик/другие заметки.md",
+    "src/Черновик/Программы и утилиты/Полезные программы и утилиты.md",
+    "src/Черновик/Design/Figma.md",
+    "src/Черновик/Программы и утилиты/Браузеры.md",
+    "src/Черновик/Программы и утилиты/NvChad.md",
+    "src/Черновик/Программы и утилиты/Vim & Nvim.md",
+    "Библиотека/Frontend/1. Html & CSS.md",
+    "Без названия.base",
+    "Без названия 1.base",
+    "Без названия 3.base",
+    "Без названия 2.base",
+    "Библиотека/Frontend/Figma.md",
+    "src/Черновик/Frontend/Emmet.md",
+    "Библиотека/Frontend/1.1 Flexbox.md",
+    "Библиотека/Общие инструменты/1. Git CLI.md",
+    "src/Черновик/Linux/NixOS/Nix.md",
+    "src/Черновик/Frontend/1.2 GridCSS.md",
+    "Библиотека/Base Hotkeys.md",
     "src/images/Flexbox/Flexbox Структура.png",
     "src/images/Flexbox/Flexиox Cтруктура 2.png",
-    "src/images/Flexbox/Flexbox Property.png",
-    "Pasted image 20250822040902.png",
-    "Библиотека/Frontend/1.1 Flexbox.md",
-    "Библиотека/Frontend/1. Html & CSS.md",
-    "Черновик/Frontend/1.1 Flexbox.md",
     "src/images/Flexbox/Flexbox Structure.png",
+    "src/images/Flexbox/Flexbox Property.png",
+    "src/Черновик/Linux/Linux.md",
+    "Библиотека/Базовые навыки",
     "src/images/Vim.png",
-    "src/images/Flexbox",
-    "src/images",
-    "src",
-    "Pasted image 20250822035832.png",
-    "Библиотека/Общие инструменты/1. Git CLI.md",
-    "Черновик/Frontend/Порядок изучения.md",
-    "Черновик/Frontend/JS/Vue/Pinia",
-    "Черновик/Frontend/JS/Vue/Nuxt",
-    "Библиотека/Frontend/1.md",
-    "Полезные программы.md",
-    "Nvim.md",
-    "Черновик/Linux1.md",
-    "оформи ввиде таблицы ubuntu fedora arch nixos.md"
+    "Unconfirmed 134404.crdownload",
+    "src/images/Figma/plugin_inspect_styles.png",
+    "src/images/Figma/Dublicate_to_your_draft.png",
+    "src/images/Figma/plugin_export_original_images.png",
+    "Pasted image 20250824162538.png",
+    "src/images/Figma",
+    "Pasted image 20250824162513.png",
+    "Unconfirmed 795890.crdownload",
+    "Черновик/Frontend/JS/Без названия.md",
+    "src/Черновик/Linux",
+    "src/Черновик/Frontend/Расписание.md",
+    "Черновик/Frontend/1.1 Flexbox.md",
+    "Черновик/Frontend/Порядок изучения.md"
   ]
 }
