@@ -6,7 +6,7 @@
 - Согласовать с дизайнером и менеджером задачи, уточнить вопросы по непонятным моментам.
 - Экспортировать макет в свое рабочее пространство (для удобства):
   
-  ![[Dublicate_to_your_draft.png]]
+![[../../static/images/Figma/Dublicate_to_your_draft.png]]
 
 ***
 
@@ -26,10 +26,13 @@
 Плагины (Ctrl + P в режиме дизайна):
 - Извлечение стилей: 
 	- [Inspect Styles][https://www.figma.com/community/plugin/1254262542670221199/inspect-styles]
-	![[plugin_inspect_styles.png]]
+	
+	![[../../static/images/Figma/plugin_inspect_styles.png]]
+
 -  Экспорт картинок:
 	-  [Export Original Images][https://www.figma.com/community/plugin/973190386632562805/export-original-images]
-	![[plugin_export_original_images.png]]
+	
+	![[../../static/images/Figma/plugin_export_original_images.png]]
 
 ***
 
